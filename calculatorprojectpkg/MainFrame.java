@@ -7,13 +7,9 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.Stack;
-
 import javax.swing.*;
 
 public class MainFrame extends JFrame implements ActionListener{
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private TopPanel topPanel; 			 // create Top panel to hold display and components 
 	private MiddlePanel middlePanel;	// create Middle panel to hold display and components 	
