@@ -1,20 +1,14 @@
 package calculatorprojectpkg;
-
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
-
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 public class BottomPanel extends JPanel{
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
-	// CREATE ABSTRACT CLASS OR INTERFACE THAT IMPLEMEnTS ALL THIS
 	JButton upBtn, ModBtn, CEBtn, CBtn, backspaceBtn, divBtn;
 	JButton aBtn, bBtn, Btn7, Btn8, Btn9,multBtn;
 	JButton cBtn, dBtn, Btn4, Btn5, Btn6, subBtn;
