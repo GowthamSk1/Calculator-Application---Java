@@ -2,7 +2,7 @@
 
 #Windows 10 calculator clone made from scratch using Java.
 
-![Calculator App](https://github.com/GothamCty/Calculator-Application---Java/blob/master/Capture.JPG?raw=true
+![Calculator App](
 )
 
 Note: Negative numbers not fully supported
