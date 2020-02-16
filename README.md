@@ -5,4 +5,4 @@
 ![Calculator App](https://github.com/GothamCty/Calculator-Application---Java/blob/master/Test.JPG)
 
 Note: Negative numbers not fully supported
-
+      the front end design of the calculator (Look and feel of the calculator).
